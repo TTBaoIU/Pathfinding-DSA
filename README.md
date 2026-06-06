@@ -63,7 +63,7 @@ Watch the visualizer in action: [**Click here to view the video demo**](https://
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/hungCS22hcmiu/Pathfinding-DSA.git
+git clone [https://github.com/TTBaoIU/Pathfinding-DSA.git]
 cd Pathfinding-DSA
 npm install
 npm run dev
