@@ -1,4 +1,4 @@
-// spellchecker: disable
+// spellchecker: disable 
 
 npm create vite@latest Pathfinding-DSA -- --template react-ts
 
